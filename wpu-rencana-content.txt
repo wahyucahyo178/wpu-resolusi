@@ -2,6 +2,6 @@ Rencana content WPU
 - Tutorial javascrips
   * ES6
   * Framework javascript
-- Struktur data dasar
 - Tutorial HTML
+  * HTML 7
 - Totorial CSS
